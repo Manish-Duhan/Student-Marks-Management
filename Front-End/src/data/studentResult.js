@@ -1,0 +1,38 @@
+export const studentResults = [
+  {
+    id: 1,
+    name: "Aman Kumar",
+    department: "Computer Science",
+    className: "BTech",
+    batch: "2022-26",
+    cgpa: 8.4,
+    status: "Pass",
+  },
+  {
+    id: 2,
+    name: "Rohit Sharma",
+    department: "Computer Science",
+    className: "BTech",
+    batch: "2022-26",
+    cgpa: 6.8,
+    status: "Pass",
+  },
+  {
+    id: 3,
+    name: "Neha Verma",
+    department: "Management",
+    className: "BBA",
+    batch: "2023-26",
+    cgpa: 4.9,
+    status: "Fail",
+  },
+  {
+    id: 4,
+    name: "Simran Kaur",
+    department: "DCA",
+    className: "BCA",
+    batch: "2022-25",
+    cgpa: 7.5,
+    status: "Pass",
+  },
+];
